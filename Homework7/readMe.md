@@ -1,39 +1,77 @@
-# j
+# Homework 7
 
     MIT
     
     ## Description
-    j
+    This project is to satisfy homewok 7 requirements
     
     ## Table of Contents
     - [Installation](#installation)
     - [Usage](#usage)
     - [License](#license)
-    - [Contributing](#contributing)
-    - [Testing](#testing)
+    - [Contributing](#contribution)
+    - [Tests](#testing)
     - [Questions](#questions)
     
     ## Installation
     ```
-    j
+    No installation needed
     ```
     
     ## Usage
-    j
+    Fun
     
     ## License
     MIT
     
     ## Contributing
-    j
+    Justin Alexander
     
     ## Tests
     ```
-    j
+    User testing is fine
     ```
     
     ## Questions
     If you have any questions, feel free to reach out:
-    - GitHub: [j](https://github.com/j)
-    - Email: [j](mailto:j)
+    - GitHub: [jutalexa2024](https://github.com/jutalexa2024)
+    - Email: [justinalexander@gmail.com](mailto:justinalexander@gmail.com)
+    # Homework 7
+
+    MIT
+    
+    ## Description
+    This project satisfies homework 7
+    
+    ## Table of Contents
+    - [Installation](#installation)
+    - [Usage](#usage)
+    - [License](#license)
+    - [Contributing](#contribution)
+    - [Tests](#testing)
+    - [Questions](#questions)
+    
+    ## Installation
+    ```
+    no installation neccessary
+    ```
+    
+    ## Usage
+    fun
+    
+    ## License
+    MIT
+    
+    ## Contributing
+    Justin Alexander
+    
+    ## Tests
+    ```
+    No testing necessary
+    ```
+    
+    ## Questions
+    If you have any questions, feel free to reach out:
+    - GitHub: [Jutalexa](https://github.com/Jutalexa)
+    - Email: [justinalexander@gmail.com](mailto:justinalexander@gmail.com)
     
